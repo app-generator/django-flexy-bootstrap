@@ -4,7 +4,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
-> Features
+> Built with [Flexy Lite Generator](https://appseed.us/generator/flexy-bootstrap/)
 
 - `Up-to-date dependencies`
 - UI-Ready app, `SQLite Database`, Django Native ORM
