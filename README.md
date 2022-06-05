@@ -26,8 +26,8 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/flask-flexy-bootstrap.git
-$ cd flask-flexy-bootstrap
+$ git clone https://github.com/app-generator/django-flexy-bootstrap.git
+$ cd django-flexy-bootstrap
 ```
 
 > Start the app in Docker
@@ -48,8 +48,8 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/flask-flexy-bootstrap.git
-$ cd flask-flexy-bootstrap
+$ git clone https://github.com/app-generator/django-flexy-bootstrap.git
+$ cd django-flexy-bootstrap
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
