@@ -2,22 +2,18 @@
 
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Flexy Bootstrap Lite, a modern Bootstrap dashboard design. [WrapPixel](https://appseed.us/agency/wrappixel)'s **Flexy Bootstrap Lite** is one of the best Bootstrap templates for admin dashboards and control admin panels. This powerful and competent Bootstrap 4 admin template is based on HTML and is built with the CSS framework. 
 
+- 👉 [Django Flexy Lite](https://django-flexy-bootstrap.appseed-srv1.com) - LIVE deployment
+- 👉 Free [support](https://appseed.us/support/) via `Email` & `Discord`
+
 <br />
 
-> Built with [Flexy Lite Generator](https://appseed.us/generator/flexy-bootstrap/)
+> 🚀 Built with [App Generator](https://appseed.us/generator/), Timestamp: `2022-06-08 12:24`
 
 - `Up-to-date dependencies`
 - UI-Ready app, `SQLite Database`, Django Native ORM
 - `Session-Based authentication`, Forms validation
 - `Deployment`: **Docker**, Gunicorn / Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-<br />
-
-> Links
-
-- 👉 [Django Flexy Lite](#) - product page (soon)
-- 👉 [Django Flexy Lite](https://django-flexy-bootstrap.appseed-srv1.com) - LIVE deployment
 
 <br />
 
@@ -47,7 +43,6 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 ## ✨ How to use it
 
 ```bash
-$ # Get the code
 $ git clone https://github.com/app-generator/django-flexy-bootstrap.git
 $ cd django-flexy-bootstrap
 $
